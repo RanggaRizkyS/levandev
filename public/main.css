@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.footer {
+    color: #434445;
+    font-weight: bold;
+    position: fixed;
+    left: 47%;
+    bottom: 0;
+    font-size: 19px;
+}
